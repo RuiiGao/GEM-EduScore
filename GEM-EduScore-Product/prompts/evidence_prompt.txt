@@ -1,0 +1,5 @@
+# Evidence prompt provenance
+
+Evidence extraction is orchestrated by Master Prompt V1.0. The existing
+Evidence Schema remains the project reference for a future structured-output
+pipeline. The current live report follows: No Evidence → No Claim.

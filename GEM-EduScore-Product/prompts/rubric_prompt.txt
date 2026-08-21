@@ -1,0 +1,8 @@
+# Rubric prompt provenance
+
+The live analysis loads the source-of-truth Rubric directly from:
+
+`../../Framework/02_rubric_v0.1.md`
+
+The 1–6 anchors and separate Evidence Coverage rules are included as reference
+context in every live evaluation request.

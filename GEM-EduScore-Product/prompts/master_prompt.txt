@@ -1,0 +1,8 @@
+# Prompt provenance
+
+The application loads the source-of-truth Master Prompt directly from:
+
+`../../Framework/11_GEM_EduScore_Master_Prompt_v1.0.md`
+
+Keeping one authoritative copy prevents the product prompt from drifting away
+from the documented framework.
