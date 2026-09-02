@@ -1,1 +1,0 @@
-"""GEM-EduScore test package."""
